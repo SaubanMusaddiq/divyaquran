@@ -4,6 +4,9 @@
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "name": "divyaquran",
   "version": "1.0.0",
   "main": "app.js",
@@ -11,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "",
+  "author": "sauban musaddiq",
   "license": "ISC",
-  "description": ""
+  "description": "Divya Quran website"
 }
