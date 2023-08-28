@@ -3,7 +3,7 @@ const http = require('http'),
   express = require('express');
 
 const app = express()
-const port = 3001
+const port = 3000
 
 app.use(express.static(__dirname + '/public'));
 
